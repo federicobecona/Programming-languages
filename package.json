@@ -1,0 +1,25 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/script.js",
+    "test": "node src/tests.js",
+    "testTruthTable": "node src/truthtable_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenguajes-2021/Proyecto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenguajes-2021/Proyecto/issues"
+  },
+  "homepage": "https://github.com/lenguajes-2021/Proyecto#readme",
+  "dependencies": {
+    "node": "^17.1.0",
+    "seedrandom": "^3.0.5"
+  }
+}
